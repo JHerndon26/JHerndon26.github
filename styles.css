@@ -1,0 +1,51 @@
+
+
+.body-class {
+    background-color: rgb(186, 146, 231);
+    font-size: large;
+
+}
+.header-class {
+    background-color: rgb(70, 50, 87);
+    color: rgb(246, 59, 2)
+  }
+.nav-class {
+    background-color:azure;
+    color: gray;
+    
+}
+.nav-class.active a {
+    font-weight: bold;
+
+}
+.text-class {
+    color: rgb(255, 255, 255);
+}
+.title-class, section-title-class {
+    color: rgb(81, 251, 98)
+}
+.section-title-class {
+    color: rgb(81, 251, 98)
+}
+
+.text-class {
+    color:aqua;
+    font-size: medium;
+
+}
+.image-class {
+    border-style: solid;
+    border-width: .2cm;
+    border-color: rgb(58, 58, 148);
+    
+}
+.form-class {
+    color: aqua
+}
+.button-class {
+    color: rgb(68, 68, 153)
+}
+.footer-class {
+    background-color: #ffa500;
+    font: brown;
+}
